@@ -20,7 +20,7 @@ $ bundle
 $ yarn install --check-files
 $ bundle exec rails db:create db:migrate
 ```
-Note: check your database.yml and change with your configration.
+Note: check your database.yml and change with your configuration.
 
 Running Tests
 =============
